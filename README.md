@@ -1,5 +1,5 @@
 # plot-phylogenetic-tree
-
+An simple project written by python (matplotlib) which ploting phylogenetic tree, rectangular or circular.
 ### example.py
 ```[python]
 from matplotlib.gridspec import GridSpec
