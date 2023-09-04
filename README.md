@@ -1,7 +1,7 @@
 # plot-phylogenetic-tree
 
 ### example.py
-```
+```[python]
 from matplotlib.gridspec import GridSpec
 from parse_newick import *
 
