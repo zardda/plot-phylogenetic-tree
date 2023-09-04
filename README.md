@@ -25,3 +25,4 @@ plot_polar_tree(root,ax2,color={"node_1":"red","node_5":"blue","node_2":"green"}
 
 plt.show()
 ```
+![avatar](https://github.com/zardda/plot-phylogenetic-tree/blob/main/example.png)
